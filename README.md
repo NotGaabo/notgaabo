@@ -26,12 +26,6 @@ Inventory management system with QR code support, automatic generation, and prod
 Personal website showcasing my experience, skills, and featured projects.
 
 ---
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notgaabo&hide_progress=true)
-
----
 ## 📈 My Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notgaabo&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
