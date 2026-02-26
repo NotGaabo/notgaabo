@@ -9,7 +9,7 @@
 
 I'm a developer passionate about creating innovative and efficient solutions. In this space, I share my personal and collaborative projects, which apply modern technologies to both the frontend and backend.
 
-## 🚀 Technologies I Use
+## 💻 Tech Stack
 
 | Frontend | Mobile | Backend | Databases|
 |----------|-------|---------|----------------|
@@ -49,6 +49,3 @@ Personal website showcasing my experience, skills, and featured projects.
 
 ## 🙌 Thanks for visiting!
 
-> *Espero que encuentres útil e interesante mi trabajo. Siéntete libre de explorar mis proyectos o contactarme si tienes alguna sugerencia o idea para colaborar.*
-
-![Thank You](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
