@@ -34,7 +34,7 @@ Personal website showcasing my experience, skills, and featured projects.
 ---
 ## 📈 My Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notgaabo&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YoensiAr&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
