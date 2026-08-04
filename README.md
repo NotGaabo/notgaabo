@@ -173,26 +173,30 @@ collections, exceptions and basic problem-solving.
 
 ---
 
----
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YoensiAr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark"
-    alt="Yoensi Arias GitHub statistics"
-  >
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoensiAr&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
-    alt="Yoensi Arias most used languages"
-  >
+  <a href="https://github.com/YoensiAr">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=YoensiAr&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=github_dark"
+      alt="Yoensi Arias GitHub statistics"
+    >
+  </a>
+
+  <a href="https://github.com/YoensiAr?tab=repositories">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=YoensiAr&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=github_dark"
+      alt="Yoensi Arias most used languages"
+    >
+  </a>
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=YoensiAr&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
-    alt="Yoensi Arias GitHub streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=YoensiAr&amp;theme=github-dark-blue&amp;hide_border=true&amp;date_format=j%2Fn%5B%2FY%5D"
+    alt="Yoensi Arias GitHub contribution streak"
   >
 </p>
 
