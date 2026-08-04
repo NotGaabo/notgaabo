@@ -33,8 +33,8 @@
 I'm a developer from the Dominican Republic passionate about creating practical, efficient and scalable software solutions.
 
 * 🌐 Developing modern web applications with React and JavaScript
-* 📱 Building mobile applications with Kotlin, Flutter and Dart
-* ⚙️ Creating backend solutions with Python and PHP
+* 📱 Building mobile applications with Kotlin
+* ⚙️ Creating backend solutions with Python
 * 🗄️ Working with MySQL and SQL Server databases
 * 📚 Continuously learning software architecture, cloud computing and automation
 * 🤝 Open to collaborating on web, mobile and business software projects
@@ -55,8 +55,6 @@ I'm a developer from the Dominican Republic passionate about creating practical,
 ### Mobile Development
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
@@ -65,7 +63,6 @@ I'm a developer from the Dominican Republic passionate about creating practical,
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
 ### Databases and Tools
@@ -135,58 +132,58 @@ Personal website showcasing my projects, technical skills and professional infor
 
 ## 🏅 Certifications
 
-Professional training and certifications that support my growth as a software developer.
-
-### 🎓 Certificate Name
-
 <p>
-  <img src="https://img.shields.io/badge/Issuer-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy">
-  <img src="https://img.shields.io/badge/Area-Web_Development-0E75B6?style=flat-square" alt="Web Development">
-  <img src="https://img.shields.io/badge/Completed-2026-2EA44F?style=flat-square" alt="Completed">
+  Professional certifications and verified credentials that demonstrate my technical knowledge and continuous learning.
 </p>
 
-Brief description of the technologies and skills learned during the course.
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img
+        src="https://img.shields.io/badge/Python-Essentials%201-3776AB?style=for-the-badge&logo=python&logoColor=white"
+        alt="Python Essentials 1"
+      >
+    </td>
 
-<a href="CERTIFICATE_URL">
-  <img src="https://img.shields.io/badge/View_Certificate-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View certificate">
-</a>
+    <td>
+      <h3>🐍 Python Essentials 1</h3>
 
-<br>
+      <p>
+        <strong>Issued by:</strong> Cisco Networking Academy
+      </p>
 
-### 🎓 Certificate Name
+      <p>
+        Verified credential covering Python fundamentals, variables, data types,
+        conditional statements, loops, functions, collections and basic
+        programming problem-solving.
+      </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Issuer-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Area-Networking-0E75B6?style=flat-square" alt="Networking">
-  <img src="https://img.shields.io/badge/Completed-2026-2EA44F?style=flat-square" alt="Completed">
-</p>
+      <p>
+        <img
+          src="https://img.shields.io/badge/Issuer-Cisco_Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white"
+          alt="Cisco Networking Academy"
+        >
+        <img
+          src="https://img.shields.io/badge/Platform-Credly-FF6B00?style=flat-square"
+          alt="Credly"
+        >
+        <img
+          src="https://img.shields.io/badge/Status-Verified-2EA44F?style=flat-square"
+          alt="Verified"
+        >
+      </p>
 
-Brief description of the technologies and skills learned during the certification.
-
-<a href="CERTIFICATE_URL">
-  <img src="https://img.shields.io/badge/View_Certificate-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View certificate">
-</a>
-
-<br>
-
-### 🎓 Certificate Name
-
-<p>
-  <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google">
-  <img src="https://img.shields.io/badge/Area-Cloud_Computing-0E75B6?style=flat-square" alt="Cloud Computing">
-  <img src="https://img.shields.io/badge/Completed-2026-2EA44F?style=flat-square" alt="Completed">
-</p>
-
-Brief description of the knowledge and competencies acquired.
-
-<a href="CERTIFICATE_URL">
-  <img src="https://img.shields.io/badge/View_Certificate-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View certificate">
-</a>
-
-> Replace `Certificate Name`, issuer, area, completion year, description and `CERTIFICATE_URL` with the information from each real certificate.
+      <a href="https://www.credly.com/badges/5c9193db-1166-4be1-9181-e66f309a6f2c/public_url">
+        <img
+          src="https://img.shields.io/badge/View_Verified_Credential-006D5B?style=for-the-badge&logo=credly&logoColor=white"
+          alt="View verified credential"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
