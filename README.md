@@ -22,6 +22,12 @@ I'm a developer passionate about creating innovative and efficient solutions. In
 ### 📦 [QR Inventory](https://github.com/notgaabo/Proyecto-Inventario-con-QR-code)
 Inventory management system with QR code support, automatic generation, and product scanning.
 
+### ⚡ [Electric Simulator](https://github.com/YoensiAr/Electric-Simulator)
+A modern educational platform for simulating electrical circuits, allowing users to build, test, and analyze circuit behavior interactively.
+
+### 🎓 [Classroom Clone](https://github.com/YoensiAr/Classroom-clone)
+A full-stack learning management system inspired by Google Classroom, featuring course management, assignments, and student collaboration.
+
 ### 🌐 [My Portfolio](https://github.com/notgaabo/Mi-portafolio)
 Personal website showcasing my experience, skills, and featured projects.
 
