@@ -137,51 +137,41 @@ Personal website showcasing my projects, technical skills and professional infor
 </p>
 
 <table>
-  <tr>
-    <td width="140" align="center">
-      <img
-        src="https://img.shields.io/badge/Python-Essentials%201-3776AB?style=for-the-badge&logo=python&logoColor=white"
-        alt="Python Essentials 1"
-      >
-    </td>
+<tr>
+<td width="180" align="center" valign="middle">
+<a href="https://www.credly.com/badges/5c9193db-1166-4be1-9181-e66f309a6f2c/public_url">
+<img src="https://img.shields.io/badge/Python-Essentials%201-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 1">
+</a>
+</td>
 
-    <td>
-      <h3>🐍 Python Essentials 1</h3>
+<td valign="top">
+<h3>Python Essentials 1</h3>
 
-      <p>
-        <strong>Issued by:</strong> Cisco Networking Academy
-      </p>
+<p>
+<strong>Cisco Networking Academy</strong><br>
+Verified digital credential issued through Credly.
+</p>
 
-      <p>
-        Verified credential covering Python fundamentals, variables, data types,
-        conditional statements, loops, functions, collections and basic
-        programming problem-solving.
-      </p>
+<p>
+This certification validates my knowledge of Python fundamentals, including
+variables, data types, operators, conditional statements, loops, functions,
+collections, exceptions and basic problem-solving.
+</p>
 
-      <p>
-        <img
-          src="https://img.shields.io/badge/Issuer-Cisco_Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white"
-          alt="Cisco Networking Academy"
-        >
-        <img
-          src="https://img.shields.io/badge/Platform-Credly-FF6B00?style=flat-square"
-          alt="Credly"
-        >
-        <img
-          src="https://img.shields.io/badge/Status-Verified-2EA44F?style=flat-square"
-          alt="Verified"
-        >
-      </p>
+<p>
+<img src="https://img.shields.io/badge/Issuer-Cisco_Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Academy">
+<img src="https://img.shields.io/badge/Credential-Credly-FF6B00?style=flat-square" alt="Credly">
+<img src="https://img.shields.io/badge/Status-Verified-2EA44F?style=flat-square" alt="Verified">
+</p>
 
-      <a href="https://www.credly.com/badges/5c9193db-1166-4be1-9181-e66f309a6f2c/public_url">
-        <img
-          src="https://img.shields.io/badge/View_Verified_Credential-006D5B?style=for-the-badge&logo=credly&logoColor=white"
-          alt="View verified credential"
-        >
-      </a>
-    </td>
-  </tr>
+<a href="https://www.credly.com/badges/5c9193db-1166-4be1-9181-e66f309a6f2c/public_url">
+<img src="https://img.shields.io/badge/View_Verified_Credential-006D5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View verified credential">
+</a>
+</td>
+</tr>
 </table>
+
+---
 
 ---
 ## 📊 GitHub Statistics
