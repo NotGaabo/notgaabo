@@ -187,7 +187,7 @@ collections, exceptions and basic problem-solving.
 
 Android application architecture, ViewModel, UI state management and separation of responsibilities.
 
-<a href="ENLACE_ARCHITECTURE_COMPONENTS">
+<a href="[ENLACE_ARCHITECTURE_COMPONENTS](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-1)">
   <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Architecture Components badge">
 </a>
 
@@ -198,7 +198,7 @@ Android application architecture, ViewModel, UI state management and separation 
 
 Navigation graphs, routes, arguments and screen management using Jetpack Compose.
 
-<a href="ENLACE_NAVIGATION_COMPOSE">
+<a href="[ENLACE_NAVIGATION_COMPOSE](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-2)">
   <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Navigation in Jetpack Compose badge">
 </a>
 
@@ -212,7 +212,7 @@ Navigation graphs, routes, arguments and screen management using Jetpack Compose
 
 Responsive Android interfaces designed for phones, tablets and different screen sizes.
 
-<a href="ENLACE_ADAPTIVE_LAYOUTS">
+<a href="[ENLACE_ADAPTIVE_LAYOUTS](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-3)">
   <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Adaptive Layouts badge">
 </a>
 
@@ -223,7 +223,7 @@ Responsive Android interfaces designed for phones, tablets and different screen 
 
 Network requests, REST APIs and remote data handling in Android applications.
 
-<a href="ENLACE_GET_DATA_INTERNET">
+<a href="[ENLACE_GET_DATA_INTERNET](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-5-pathway-1)">
   <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Get Data from the Internet badge">
 </a>
 
