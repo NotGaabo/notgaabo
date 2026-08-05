@@ -173,6 +173,66 @@ collections, exceptions and basic problem-solving.
 
 ---
 
+## 🏅 Google Developer Badges
+
+<p>
+  Verified badges demonstrating my Android development skills with Kotlin and Jetpack Compose.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture Components
+
+Android application architecture, ViewModel, UI state management and separation of responsibilities.
+
+<a href="ENLACE_ARCHITECTURE_COMPONENTS">
+  <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Architecture Components badge">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Navigation in Jetpack Compose
+
+Navigation graphs, routes, arguments and screen management using Jetpack Compose.
+
+<a href="ENLACE_NAVIGATION_COMPOSE">
+  <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Navigation in Jetpack Compose badge">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Adaptive Layouts
+
+Responsive Android interfaces designed for phones, tablets and different screen sizes.
+
+<a href="ENLACE_ADAPTIVE_LAYOUTS">
+  <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Adaptive Layouts badge">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Get Data from the Internet
+
+Network requests, REST APIs and remote data handling in Android applications.
+
+<a href="ENLACE_GET_DATA_INTERNET">
+  <img src="https://img.shields.io/badge/View_Badge-Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Get Data from the Internet badge">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
